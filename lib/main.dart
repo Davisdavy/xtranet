@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:xtranet/pages/App.dart';
 
 void main() {
   runApp(MyApp());

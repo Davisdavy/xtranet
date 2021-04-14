@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:transformer_page_view/transformer_page_view.dart';
+import 'package:xtranet/widgets/single.dart';
+import 'package:xtranet/widgets/slider_indicator.dart';
+import 'package:xtranet/widgets/transformer.dart';
 class App extends StatefulWidget {
   @override
   _AppState createState() => _AppState();
