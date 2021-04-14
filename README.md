@@ -6,7 +6,7 @@
  - A working weather search.
 
 ## ScreenShots
-<img src="/app/src/main/res/drawable/one.jpg" width="200" height="400">                             <img src="./app/src/main/res/drawable/two.jpg" width="200" height="400">
+<img src="./android/app/src/main/res/drawable/one.jpg" width="200" height="400">                             <img src="./app/src/main/res/drawable/two.jpg" width="200" height="400">
 
 ## Disclaimer!!
 This project is still under construction
