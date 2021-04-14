@@ -27,13 +27,13 @@ class ShowWeather extends StatelessWidget {
                 Column(
                   children: [
                     Text(weather.getMinTemp.round().toString()+"C",style: TextStyle(color: Colors.white70, fontSize: 30),),
-                    Text("Min Temperature",style: TextStyle(color: Colors.white70, fontSize: 14),),
+                    Text("Lows: Temperature ",style: TextStyle(color: Colors.white70, fontSize: 14),),
                   ],
                 ),
                 Column(
                   children: [
                     Text(weather.getMaxTemp.round().toString()+"C",style: TextStyle(color: Colors.white70, fontSize: 30),),
-                    Text("Max Temperature",style: TextStyle(color: Colors.white70, fontSize: 14),),
+                    Text("Highs: Temperature",style: TextStyle(color: Colors.white70, fontSize: 14),),
                   ],
                 ),
               ],

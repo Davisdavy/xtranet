@@ -1,16 +1,19 @@
-# xtranet
+# Xtranet Weather App
+### About
+ This is an interview intended app
 
-A new Flutter application.
+### What can you find?
+ - A working weather search.
+
+## ScreenShots
+<img src="./app/src/main/res/drawable/one.jpg" width="200" height="400">                             <img src="./app/src/main/res/drawable/two.jpg" width="200" height="400">
+
+## Disclaimer!!
+This project is still under construction
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
+-Have the latest Flutter Sdk
+-Clone and run flutter pub get then run the project
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
