@@ -19,10 +19,14 @@ class MyApp extends StatelessWidget {
         ),
         home: Scaffold(
           resizeToAvoidBottomInset: false,
-          backgroundColor: Colors.grey[900],
+
           body: BlocProvider(
             create: (context) => BlocWeather(WeatherRepo()),
-            child: SearchPage(),
+            child: Container(
+              decoration:BoxDecoration(
+                  image: DecorationImage(
+                      image: AssetImage("assets/cloudy.jpeg"), fit: BoxFit.cover)),
+                child: SearchPage()),
           ),
         )
     );
