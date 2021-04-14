@@ -11,6 +11,15 @@
 ## Disclaimer!!
 This project is still under construction
 
+## Technologies Used
+1. Flutter bloc -State management
+2. Http - Network handler
+
+## Availbility
+- Android
+- Ios
+- Web (chrome)
+
 ## Getting Started
 -Have the latest Flutter Sdk
 -Clone and run flutter pub get then run the project
